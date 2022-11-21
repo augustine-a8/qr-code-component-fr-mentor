@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://github.com/augustine-a8/qr-code-component-fr-mentor.git)
--   Live Site URL: [Add live site URL here](https://augustine-a8.github.io/qr-code-component-fr-mentor/)
+-   Solution URL: [https://github.com/augustine-a8/qr-code-component-fr-mentor.git](https://github.com/augustine-a8/qr-code-component-fr-mentor.git)
+-   Live Site URL: [https://augustine-a8.github.io/qr-code-component-fr-mentor/](https://augustine-a8.github.io/qr-code-component-fr-mentor/)
 
 ## My process
 
